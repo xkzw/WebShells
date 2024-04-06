@@ -11,14 +11,12 @@ This repository contains many web shells that you can find on the internet.
 
 - Adminer
 - AlfaShell
-- Create AlfaShell
 - Beyaz
 - Bypass403
 - CPanel
 - Cylul
 - Dbconfig
 - EagleShell
-- Create EagleShell
 - Eviltwin
 - Fierza
 - FileManager
